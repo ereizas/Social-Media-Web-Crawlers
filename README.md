@@ -25,5 +25,5 @@ Used https://github.com/4chan/4chan-API for request commands and example respons
 3. Run updateCSV function according with the start date of the last run as the parameter
 
 ##Things to consider:
-1. The data collected may not be entirely accurate since in the span of the 3 days (maybe less since it was edited for efficiency) this program takes to run, users can post new comments, so there is a chance of missing data to collect
+1. The data collected may only be an estimate of actual values since in the span of the 3 days (maybe less since it was edited for efficiency) this program takes to run, users can post new comments, so there is a chance of missing data to collect
 
